@@ -1,2 +1,2 @@
-export const USER_API_ENDPOINT = "https://twitter-backend-khaki.vercel.app/api/v1/user";
-export const TWEET_API_ENDPOINT = "https://twitter-backend-khaki.vercel.app/api/v1/tweet"
+export const USER_API_ENDPOINT = "http://localhost:5000/api/v1/user";
+export const TWEET_API_ENDPOINT = "http://localhost:5000/api/v1/tweet"
